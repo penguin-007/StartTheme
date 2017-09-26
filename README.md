@@ -1,2 +1,1 @@
-# StartTheme
-Child Start Theme for WPS_Framework
+# StartTheme child Theme for WPS_Framework or other themes.
