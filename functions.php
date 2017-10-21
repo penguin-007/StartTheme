@@ -29,8 +29,8 @@ function true_supported_image_sizes( $sizes ) {
 
 
 #### Path
-define('REL_ASSETS_URI', 'wp-content/themes/'.get_stylesheet_directory().'/assets/'); // for IMG in frontend
-define('ABS_ASSETS_URI', get_stylesheet_directory_uri().'/assets');                   // for JS and CSS
+define('REL_ASSETS_URI', 'wp-content/themes/'.get_stylesheet().'/assets/'); // for IMG in frontend
+define('ABS_ASSETS_URI', get_stylesheet_directory_uri().'/assets');         // for JS and CSS
 
 #### Подключение скриптов и стилей https://truemisha.ru/blog/wordpress/wp_enqueue_script.html
 ## Условные теги http://wp-kama.ru/id_89/uslovnyie-tegi-v-wordpress-i-vse-chto-s-nimi-svyazano.html
